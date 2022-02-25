@@ -1,6 +1,11 @@
 # aqeel_cv_app
 
-A new Flutter project.
+In Flutter, I created this My CV application.
+
+## Demo
+![app](https://user-images.githubusercontent.com/81378260/155660304-e50c5651-bbc3-48ea-91de-6855700ed3be.png)
+
+
 
 ## Getting Started
 
